@@ -1,8 +1,6 @@
 <h1 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture>Hi 👋, I'm Madushan Pradeep</h1>
 
 <h3 align="center">💻 ICT Undergraduate USJP | Exploring Technology | Building My Developer Journey | Future Software Engineer</h3>
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madushan-pradeep&label=P_%20V&color=0e75b6&style=flat" alt="madushan-pradeep" /> </p>
 
 ---
